@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsulS0rkom0LexJZtzk8SKvLh8/XKiV5aj2uvZ7WOTGQUsVLIQ80eNumPObL9msCRJ/4oJK6IaylQeR+WeEvYg==",
+  "success": true,
+  "projectFilePath": "D:\\לימודים דוטנט האקריו\\asp dotnet\\שיעור 2\\hw2\\hw_middleware_api_16_5_22\\hw_middleware_api_16_5_22\\hw_middleware_api_16_5_22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAHAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DAHAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DAHAN\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\DAHAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\DAHAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\DAHAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\DAHAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
